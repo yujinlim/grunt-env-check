@@ -1,0 +1,50 @@
+{
+  "name": "grunt-env-check",
+  "description": "Automate environment variable checking on your system",
+  "version": "0.1.0",
+  "homepage": "https://github.com/yujinlim/grunt-env-check",
+  "author": {
+    "name": "yujinlim",
+    "email": "adamlyj89@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yujinlim/grunt-env-check.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yujinlim/grunt-env-check/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/yujinlim/grunt-env-check/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": "0.10"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt": "~0.4.5"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin",
+    "environment",
+    "node",
+    "check"
+  ],
+  "dependencies": {
+    "inquirer": "^0.8.0",
+    "lodash.keys": "^2.4.1",
+    "lodash.pick": "^2.4.1",
+    "lodash.pluck": "^2.4.1"
+  }
+}
