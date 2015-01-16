@@ -1,5 +1,7 @@
 # grunt-env-check
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/yujinlim/grunt-env-check?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > Automate environment checking on system
 
 ## Getting Started
