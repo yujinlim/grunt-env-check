@@ -1,6 +1,6 @@
 /*
  * grunt-env
- * https://github.com/adam/grunt-env
+ * https://github.com/yujinlim/grunt-env-check
  *
  * Copyright (c) 2015 yujinlim
  * Licensed under the MIT license.
